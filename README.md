@@ -206,7 +206,7 @@ git rebase origin/developer
 
 ## Command	Description
 
-1. git clone <repository-url>	Clone the repository to your local machine.
+```git clone <repository-url>```	Clone the repository to your local machine.
 
 2. git checkout -b <branch-name>	Create and switch to a new branch.
 
