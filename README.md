@@ -218,7 +218,7 @@ git rebase origin/developer
 
 ```git pull origin <branch-name>```	Pull the latest changes from the specified branch.
 
-```git fetch origin``	Fetch updates from the remote repository.
+```git fetch origin```	Fetch updates from the remote repository.
 
 ```git merge origin/<branch-name>```	Merge the specified branch into the current branch.
 
