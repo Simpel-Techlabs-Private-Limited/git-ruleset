@@ -208,27 +208,27 @@ git rebase origin/developer
 
 ```git clone <repository-url>```	Clone the repository to your local machine.
 
-2. git checkout -b <branch-name>	Create and switch to a new branch.
+```git checkout -b <branch-name>```	Create and switch to a new branch.
 
-3. git add .	Stage all changes for commit.
+```git add .```	Stage all changes for commit.
 
-4. git commit -m "message"	Commit the changes with a message.
+```git commit -m "message"```	Commit the changes with a message.
 
-5. git push origin <branch-name>	Push the changes to the specified branch on GitHub.
+```git push origin <branch-name>```	Push the changes to the specified branch on GitHub.
 
-6. git pull origin <branch-name>	Pull the latest changes from the specified branch.
+```git pull origin <branch-name>```	Pull the latest changes from the specified branch.
 
-7. git fetch origin	Fetch updates from the remote repository.
+```git fetch origin``	Fetch updates from the remote repository.
 
-8. git merge origin/<branch-name>	Merge the specified branch into the current branch.
+```git merge origin/<branch-name>```	Merge the specified branch into the current branch.
 
-9. git rebase origin/<branch-name>	Rebase the current branch on top of the specified branch.
+```git rebase origin/<branch-name>```	Rebase the current branch on top of the specified branch.
 
-10. git status	Check the status of your working directory.
+```git status```	Check the status of your working directory.
 
-11. git log	View the commit history.
+```git log```	View the commit history.
 
-12. git reset --hard <commit-hash>	Reset your working directory to a specific commit.
+```git reset --hard <commit-hash>```	Reset your working directory to a specific commit.
 
 ----------------------------------------------------------------
 
